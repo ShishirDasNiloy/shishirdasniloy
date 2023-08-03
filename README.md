@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, My name is Shishir</h1>
 <h2 align="center">I love learning new things</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shishirdasniloy) ![Profile views](https://gpvc.arturio.dev/shishirdasniloy) 
+![](https://komarev.com/ghpvc/?username=shishirdasniloy&color=blueviolet&style=for-the-badge&label=visitors)
 
 >Skills:
 
